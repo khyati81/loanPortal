@@ -1,0 +1,21 @@
+.App {
+  text-align: center;
+}
+
+
+
+.btnStyle{
+  display: flex;
+  gap: 1rem;
+  justify-content: center;
+  align-items: center;
+}
+
+/* Sub forms */
+.subForm__container{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
